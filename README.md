@@ -1,7 +1,7 @@
 # covid-statistics
 
 
-## Details to execute\test endpoint URLs with  covid19-statistics API  
+## Details to execute\test endpoint URLs with covid-statistics API  
 
 ### Steps for database setup: 
 
