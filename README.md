@@ -1,4 +1,5 @@
-# rapidapi-covidstates
+# covid-statistics
+
 
 ## Details to execute\test endpoint URLs with  covid19-statistics API  
 
